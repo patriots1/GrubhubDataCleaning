@@ -15,7 +15,7 @@
 * **<Proxyman (IOS app)>**, use SSH proxying to get relevant API endpoints.
 * **<Python (Requests)>**, use the get method to get the JSON data.
 * **<Python (JSON)>**, convert data (from dictionary to JSON) to write to the output file.
-* **<NOTE>** this process is not shown due to the usage of an authetication key, which is private to me.
+* **< NOTE >** this process is not shown due to the usage of an authetication key, which is private to me.
 
 ### Tools Used (Cleaning Data)
 
