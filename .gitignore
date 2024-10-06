@@ -1,1 +1,3 @@
-secret/
+super_secret.py
+.ipynb_checkpoints/
+**/__pycache__
